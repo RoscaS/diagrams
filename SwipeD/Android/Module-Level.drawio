@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-17T11:36:52.979Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="XPZeqCuvPEd7soteDAk_" version="12.1.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-17T11:37:19.730Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="_6KX26eYCsip-QXaYTSz" version="12.1.3" type="github" pages="1">
   <diagram id="eSeaNw2GithJxdGABO0R" name="Page-1">
     <mxGraphModel dx="1768" dy="1092" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" background="none" math="0" shadow="1">
       <root>
@@ -17,9 +17,6 @@
         </mxCell>
         <mxCell id="sySPXVt8ZNQNiC04dRN2-3" value="App" style="shape=component;align=left;spacingLeft=36;" parent="1" vertex="1">
           <mxGeometry x="144" y="175" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="jIlWIzGMqwlmhMCRxVRk-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="25" y="115" width="30" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
